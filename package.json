@@ -1,0 +1,16 @@
+{
+  "name": "cp-calculator",
+  "version": "1.0.0",
+  "description": "一个简单的计算器",
+  "main": "cpCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cp-calculator",
+    "cp",
+    "calculator"
+  ],
+  "author": "CharlsPrince",
+  "license": "MIT"
+}
